@@ -16,10 +16,7 @@ var config = {
             title: 'Dec-31 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'The B.C. Supreme Court grants Coastal GasLink an injunction calling for the removal of any obstructions including cabins and gates on any roads, bridges or work sites the company has been authorized to use.
-
-            Dec .31 the BC Supreme Court issued an injunction ordering protestors to stop blocking access to the Coastal Gaslink construction site.Shortly after the RCMP arrested 14 protesters.
-            ',
+            description: 'The B.C. Supreme Court grants Coastal GasLink an injunction calling for the removal of any obstructions including cabins and gates on any roads, bridges or work sites the company has been authorized to use. Dec .31 the BC Supreme Court issued an injunction ordering protestors to stop blocking access to the Coastal Gaslink construction site.Shortly after the RCMP arrested 14 protesters.',
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -49,16 +46,7 @@ var config = {
             title: 'Jan-1 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'On January 1, after rejecting the injunction, the hereditary chiefs ordered the eviction of the RCMP and Coastal GasLink personnel from the Wetʼsuwetʼen territory. 
-
-            The Wet’ suwet’ en First Nation serves Coastal GasLink with an eviction notice,
-            telling the company workers are“ currently trespassing” on their unceded territory.
-
-            The Wet’ suwet’ en First Nation serves Coastal GasLink with an eviction notice,
-            telling the company workers are“ currently trespassing” on their unceded territory.
-
-            The Wet’ suwet’ en hereditary chiefs issued an“ eviction notice” to Coastal Gaslink employees telling them to leave the construction site.
-            ',
+            description: 'On January 1, after rejecting the injunction, the hereditary chiefs ordered the eviction of the RCMP and Coastal GasLink personnel from the Wetʼsuwetʼen territory. The Wet’ suwet’ en First Nation serves Coastal GasLink with an eviction notice, telling the company workers are“ currently trespassing” on their unceded territory. The Wet’ suwet’ en First Nation serves Coastal GasLink with an eviction notice, telling the company workers are“ currently trespassing” on their unceded territory. The Wet’ suwet’ en hereditary chiefs issued an“ eviction notice” to Coastal Gaslink employees telling them to leave the construction site.',
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -233,8 +221,7 @@ var config = {
             hidden: false,
             title: 'Jan-20 Swartz Bay ferry terminal',
             image: './path/to/image/source.png',
-            description: 'Protesters disrupt BC ferry service leaving from Swartz Bay ferry terminal, which is Victoria'
-            s main ferry link to the BC mainland ',
+            description: "Protesters disrupt BC ferry service leaving from Swartz Bay ferry terminal, which is Victoria's main ferry link to the BC mainland",
             location: {
                 center: [-123.41039, 48.68795],
                 zoom: 13.83,
@@ -324,10 +311,7 @@ var config = {
             hidden: false,
             title: 'Jan-27 Legislative Assembly of British Columbia, Victoria',
             image: './path/to/image/source.png',
-            description: 'BC Minister of Public Safety and Solicitor General Mike Farnworth declares a provincial emergency under the Provincial Police Service Agreement and authorizes the Royal Canadian Mounted Police (RCMP) to redeploy resources to use in the enforcement of the injunction in a letter to the RCMP Deputy Commissioner
-
-            The British Columbia government appoints former New Democrat MP Nathan Cullen as a provincial liaison with Wet’ suwet’ en hereditary chiefs in the LNG pipeline dispute.
-            ',
+            description: 'BC Minister of Public Safety and Solicitor General Mike Farnworth declares a provincial emergency under the Provincial Police Service Agreement and authorizes the Royal Canadian Mounted Police (RCMP) to redeploy resources to use in the enforcement of the injunction in a letter to the RCMP Deputy Commissioner. The British Columbia government appoints former New Democrat MP Nathan Cullen as a provincial liaison with Wet’ suwet’ en hereditary chiefs in the LNG pipeline dispute.',
             location: {
                 center: [-123.37001, 48.42015],
                 zoom: 16.44,
@@ -357,12 +341,7 @@ var config = {
             title: 'Jan-30 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'The RCMP announces that they would stand down while the hereditary chiefs and the province meet to discuss and try to come to an agreement
-
-            The hereditary chiefs of the Wet’ suwet’ en agree to seven days of meetings with the province.
-
-            The hereditary chiefs of the Wet’ suwet’ en agree to seven days of meetings with the B.C.government.
-            ',
+            description: 'The RCMP announces that they would stand down while the hereditary chiefs and the province meet to discuss and try to come to an agreement. The hereditary chiefs of the Wet’ suwet’ en agree to seven days of meetings with the province. The hereditary chiefs of the Wet’ suwet’ en agree to seven days of meetings with the B.C.government.',
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -520,10 +499,7 @@ var config = {
             hidden: false,
             title: 'Feb-5 Wetʼsuwetʼen Hereditary Chiefs Office',
             image: './path/to/image/source.png',
-            description: 'Negotiations between the Province and hereditary chiefs of the Wet’suwet’en break down after two days.
-
-            The talks that were intended to de - escalate the dispute fail after just two days.
-            ',
+            description: 'Negotiations between the Province and hereditary chiefs of the Wet’suwet’en break down after two days. The talks that were intended to de - escalate the dispute fail after just two days.',
             location: {
                 center: {
                     lon: -127.17357,
@@ -556,12 +532,7 @@ var config = {
             title: 'Feb-6 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'February 6 – The RCMP begins enforcing the injunction, arresting 21 persons at camps along the route between February 6 and 9.
-
-            The RCMP move in to Wet’ suwet’ en territory to enforce the court injunction that would have allowed construction work to resume.A handful of pipeline opponents are arrested.
-
-            RCMP officers move to enforce the court injunction to remove blockades preventing construction on the Coastal GasLink pipeline in Wet’ suwet’ en territory.
-            ',
+            description: 'February 6 – The RCMP begins enforcing the injunction, arresting 21 persons at camps along the route between February 6 and 9. The RCMP move in to Wet’ suwet’ en territory to enforce the court injunction that would have allowed construction work to resume.A handful of pipeline opponents are arrested. RCMP officers move to enforce the court injunction to remove blockades preventing construction on the Coastal GasLink pipeline in Wet’ suwet’ en territory.',
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -590,17 +561,7 @@ var config = {
             hidden: false,
             title: 'Feb-6 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'February 6 – Near Belleville, Ontario, members of the Mohawks of the Bay of Quinte First Nation begin a blockade of the Canadian National Railway rail line just north of Tyendinaga Mohawk Territory. The line is critical to the CNR network in Eastern Canada as CNR has no other east–west rail lines through Eastern Ontario.
-
-            Hours later,
-            outside of Belleville,
-            Ont.,
-            east of Toronto,
-            protesters start holding up railway traffic in solidarity with the Wet’ suwet’ en hereditary chiefs.
-
-            In Ontario,
-            a blockade is erected in Tyendinaga preventing CN Rail traffic.
-            ',
+            description: 'February 6 – Near Belleville, Ontario, members of the Mohawks of the Bay of Quinte First Nation begin a blockade of the Canadian National Railway rail line just north of Tyendinaga Mohawk Territory. The line is critical to the CNR network in Eastern Canada as CNR has no other east–west rail lines through Eastern Ontario. Hours later,outside of Belleville, Ont., east of Toronto, protesters start holding up railway traffic in solidarity with the Wet’ suwet’ en hereditary chiefs. In Ontario,a blockade is erected in Tyendinaga preventing CN Rail traffic.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -664,11 +625,7 @@ var config = {
             hidden: false,
             title: 'Feb-7 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'Via Rail halts service along one of its busiest routes because of the Belleville-area blockade. All travel between Toronto, Ottawa and Montreal is cancelled. Canadian National Railway obtains a court injunction to end a demonstration by members of the Tyendinaga Mohawk Territory near Belleville.
-
-            CN Rail’ s court injunction is not enforced in Ontario,
-            prompting the rail service to shut down all operations in Eastern Canada.
-            ',
+            description: 'Via Rail halts service along one of its busiest routes because of the Belleville-area blockade. All travel between Toronto, Ottawa and Montreal is cancelled. Canadian National Railway obtains a court injunction to end a demonstration by members of the Tyendinaga Mohawk Territory near Belleville. CN Rail’ s court injunction is not enforced in Ontario, prompting the rail service to shut down all operations in Eastern Canada.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -828,10 +785,7 @@ var config = {
             hidden: false,
             title: 'Feb-8 Downtown Toronto',
             image: './path/to/image/source.png',
-            description: 'February 8 – Solidarity protests take place in Toronto and Ottawa.
-
-            Protesters in Toronto disrupt Canadian Pacific Railway traffic moving through the downtown area.
-            ',
+            description: 'February 8 – Solidarity protests take place in Toronto and Ottawa. Protesters in Toronto disrupt Canadian Pacific Railway traffic moving through the downtown area.',
             location: {
                 center: {
                     lon: -79.39862,
@@ -864,11 +818,7 @@ var config = {
             title: 'Feb-8 Rail blockade Exo'
             s Candiac Montreal ',
             image: './path/to/image/source.png',
-            description: 'February 8 - A blockade of the Exo'
-            s Candiac line south of Montreal in Kahnawake begins.
-
-            Kahnawake Mohawk community members south of Montreal erect a blockade on a CP rail line.
-            ',
+            description: "February 8 - A blockade of the Exo's Candiac line south of Montreal in Kahnawake begins. Kahnawake Mohawk community members south of Montreal erect a blockade on a CP rail line.",
             location: {
                 center: {
                     lon: -73.65039,
@@ -1093,11 +1043,7 @@ var config = {
             hidden: false,
             title: 'Feb-10 Port of Vancouver',
             image: './path/to/image/source.png',
-            description: 'February 10 – protesters set up blockades at the three entrences to the Port of Vancouver, Canada'
-            s largest port.The protest began at 5: 30 a.m.By 8: 00 a.m.police broke up blockade at the Hastings and Clark entrance.Metro Vancouver police arrest 47 persons blocking the Port of Vancouver,
-            Delta port,
-            and two other ports in Metro Vancouver.
-            ',
+            description: "February 10 – protesters set up blockades at the three entrences to the Port of Vancouver, Canada's largest port.The protest began at 5: 30 a.m.By 8: 00 a.m.police broke up blockade at the Hastings and Clark entrance.Metro Vancouver police arrest 47 persons blocking the Port of Vancouver, Delta port, and two other ports in Metro Vancouver.",
             location: {
                 center: {
                     lon: -123.08170,
@@ -1257,15 +1203,7 @@ var config = {
             hidden: false,
             title: 'Feb-11 Railway blocked in Hazelton, B.C',
             image: './path/to/image/source.png',
-            description: 'February 11 – Prince George–Prince Rupert passenger rail service is suspended.
-
-            CN stops transport between Prince George,
-            B.C.,
-            and Prince Rupert,
-            B.C.,
-            because of a blockade near Hazelton,
-            B.C.The company says it has halted more than 150 freight trains since blockades started on Feb .6.
-            ',
+            description: 'February 11 – Prince George–Prince Rupert passenger rail service is suspended. CN stops transport between Prince George, B.C., and Prince Rupert, B.C., because of a blockade near Hazelton, B.C.The company says it has halted more than 150 freight trains since blockades started on Feb 6.',
             location: {
                 center: {
                     lon: -130.26805,
@@ -1484,12 +1422,7 @@ var config = {
             hidden: false,
             title: 'Feb-12 Wetʼsuwetʼen Hereditary Chiefs Office',
             image: './path/to/image/source.png',
-            description: 'February 12 - The Wet’suwet’en hereditary chiefs petition the Supreme Court of Canada to declare "Canada has a constitutional duty to keep the country’s greenhouse gas emissions within the Paris Agreement limit."
-
-            Two hereditary Wet’ suwet’ en chiefs start a constitutional challenge of fossil fuel projects,
-            as Prime Minister Justin Trudeau calls
-            for demonstrators across the country to observe the rule of law.
-            ',
+            description: 'February 12 - The Wet’suwet’en hereditary chiefs petition the Supreme Court of Canada to declare "Canada has a constitutional duty to keep the country’s greenhouse gas emissions within the Paris Agreement limit. "Two hereditary Wet’ suwet’ en chiefs start a constitutional challenge of fossil fuel projects, as Prime Minister Justin Trudeau calls for demonstrators across the country to observe the rule of law.',
             location: {
                 center: {
                     lon: -127.17357,
@@ -1521,16 +1454,7 @@ var config = {
             hidden: false,
             title: 'Feb-13 Rail blockade in Ontario',
             image: './path/to/image/source.png',
-            description: 'February 13 – Via Rail announces the shutdown of its entire network, with the exception of the Sudbury–White River train line and the Winnipeg–Churchill train between Churchill and The Pas, until further notice.
-
-            CN shuts down its operations in Eastern Canada.The railway says blockades have ended in Manitoba and may come down soon in British Columbia,
-            but the orders of a court in Ontario have yet to be enforced and
-            continue to be ignored.
-
-            CN Rail’ s court injunction is not enforced in Ontario,
-            prompting the rail service to shut down all operations in Eastern Canada.CN Rail says blockades in Manitoba end and expect those in B.C.to follow suit.
-
-            CNR shuts down its rail lines east of Toronto ',
+            description: 'February 13 – Via Rail announces the shutdown of its entire network, with the exception of the Sudbury–White River train line and the Winnipeg–Churchill train between Churchill and The Pas, until further notice. CN shuts down its operations in Eastern Canada.The railway says blockades have ended in Manitoba and may come down soon in British Columbia, but the orders of a court in Ontario have yet to be enforced and continue to be ignored. CN Rail’ s court injunction is not enforced in Ontario, prompting the rail service to shut down all operations in Eastern Canada.CN Rail says blockades in Manitoba end and expect those in B.C.to follow suit. CNR shuts down its rail lines east of Toronto ',
             location: {
                 center: {
                     lon: -81.54325,
@@ -1722,11 +1646,7 @@ var config = {
             hidden: false,
             title: 'Feb-15 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'February 15 – Indigenous Services Minister Marc Miller meets the Mohawks in a ceremonial encounter on the CNR train tracks to renew a 17th Century treaty between the Iroquois and the British Crown known as the Silver Covenant Chain. Miller and the leaders of Tyendinaga then discussed the blockade Miller asked for a temporary drawback of the protest but his request was refused after Wetʼsuwetʼen hereditary Chief Woos, who was on the phone, stated that the RCMP was still on his territory and "they are out there with guns, threatening us." Leaked audio of the meetings included a Mohawk resident in the meeting telling the minister to "Get the red coats out first, get the blue coats out … then we can maybe have some common discussions".
-
-            Federal Indigenous Services Minister Marc Miller travels to meet with protesters in Tyendinaga Mohawk Territory near the site of the Belleville blockade.He says“ modest progress” was made during nine hours of talks,
-            but declines to share details on what was discussed.
-            ',
+            description: 'February 15 – Indigenous Services Minister Marc Miller meets the Mohawks in a ceremonial encounter on the CNR train tracks to renew a 17th Century treaty between the Iroquois and the British Crown known as the Silver Covenant Chain. Miller and the leaders of Tyendinaga then discussed the blockade Miller asked for a temporary drawback of the protest but his request was refused after Wetʼsuwetʼen hereditary Chief Woos, who was on the phone, stated that the RCMP was still on his territory and "they are out there with guns, threatening us." Leaked audio of the meetings included a Mohawk resident in the meeting telling the minister to "Get the red coats out first, get the blue coats out … then we can maybe have some common discussions". Federal Indigenous Services Minister Marc Miller travels to meet with protesters in Tyendinaga Mohawk Territory near the site of the Belleville blockade.He says“ modest progress” was made during nine hours of talks, but declines to share details on what was discussed.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -1758,16 +1678,7 @@ var config = {
             hidden: false,
             title: 'Feb-16 Rainbow International Bridge',
             image: './path/to/image/source.png',
-            description: 'Feb. 16 protesters blocked the Canadian side of the Rainbow International Bridge, disrupting traffic for most of the afternoon.
-
-            A demonstration temporarily blocks the Rainbow Bridge border crossing in Niagara Falls,
-            Ontario.
-
-            Meanwhile,
-            protesters briefly shut down a busy Ontario border crossing.
-
-            A protest in Ontario shuts down a U.S.border crossing.
-            ',
+            description: 'Feb. 16 protesters blocked the Canadian side of the Rainbow International Bridge, disrupting traffic for most of the afternoon. A demonstration temporarily blocks the Rainbow Bridge border crossing in Niagara Falls, Ontario. Meanwhile, protesters briefly shut down a busy Ontario border crossing. A protest in Ontario shuts down a U.S.border crossing.',
             location: {
                 center: {
                     lon: -79.06802,
@@ -1831,9 +1742,7 @@ var config = {
             hidden: false,
             title: 'Feb-16 Parliment of Canada Ottawa',
             image: './path/to/image/source.png',
-            description: 'Trudeau cancels his planned trip to Barbados, less than 24 hours before his scheduled departure, so he can handle the protests in Canada.
-
-            Prime Minister Justin Trudeau cancels a political trip to Barbados amidst mounting political and economic pressure ',
+            description: 'Trudeau cancels his planned trip to Barbados, less than 24 hours before his scheduled departure, so he can handle the protests in Canada. Prime Minister Justin Trudeau cancels a political trip to Barbados amidst mounting political and economic pressure ',
             location: {
                 center: {
                     lon: -75.70188,
@@ -1929,14 +1838,7 @@ var config = {
             hidden: false,
             title: 'Feb-18 Eastern Ontario',
             image: './path/to/image/source.png',
-            description: 'February 18 – CNR temporarily lays off 450 employees for reasons related to the pipeline disruptions (they are recalled March 3).
-
-            Meanwhile,
-            CN issues temporary layoff notices
-            for 450 employees,
-            citing the ongoing protests as the reason
-            for the move.
-            ',
+            description: 'February 18 – CNR temporarily lays off 450 employees for reasons related to the pipeline disruptions (they are recalled March 3). Meanwhile, CN issues temporary layoff notices for 450 employees, citing the ongoing protests as the reason for the move.',
             location: {
                 center: {
                     lon: -80.52400,
@@ -1968,15 +1870,7 @@ var config = {
             hidden: false,
             title: 'Feb-18 Parliment of Canada Ottawa',
             image: './path/to/image/source.png',
-            description: 'February 18 – Opposition leader Andrew Scheer condemns the federal government'
-            s response,
-            calling it "the weakest response to a national crisis in Canadian history. Will our country be one of the rule of the law, or will our country be one of the rule of the mob?".Prime Minister Justin Trudeau holds a private meeting with the other opposition parties ' leaders, barring Scheer after his comments.
-
-            An emergency debate is held in the House of Commons,
-            where the Opposition Conservatives advocate
-            for forceful action and the governing Liberals push
-            for ongoing dialog with backing from other political parties.
-            ',
+            description: "February 18 – Opposition leader Andrew Scheer condemns the federal government's response, calling it 'the weakest response to a national crisis in Canadian history. Will our country be one of the rule of the law, or will our country be one of the rule of the mob?'.Prime Minister Justin Trudeau holds a private meeting with the other opposition parties' leaders, barring Scheer after his comments. An emergency debate is held in the House of Commons, where the Opposition Conservatives advocate for forceful action and the governing Liberals pushfor ongoing dialog with backing from other political parties.",
             location: {
                 center: {
                     lon: -75.70188,
@@ -2008,11 +1902,7 @@ var config = {
             hidden: false,
             title: 'Feb-18 Parliment of Canada Ottawa',
             image: './path/to/image/source.png',
-            description: 'February 18 – The Assembly of First Nations (AFN) holds a press conference in Ottawa. AFN National Chief Perry Bellegarde called for all parties to engage in dialogue. "It'
-            s on everybody.It 's not on any one individual. I'
-            m just calling on all the parties to come together,
-            get this dialogue started in a constructive way.
-            "',
+            description: "February 18 – The Assembly of First Nations (AFN) holds a press conference in Ottawa. AFN National Chief Perry Bellegarde called for all parties to engage in dialogue. It's on everybody.It's not on any one individual. I'm just calling on all the parties to come together get this dialogue started in a constructive way.",
             location: {
                 center: {
                     lon: -75.70188,
@@ -2044,16 +1934,7 @@ var config = {
             hidden: false,
             title: 'Feb-19 Rail blockade, Edmonton',
             image: './path/to/image/source.png',
-            description: 'Feb. 19 protesters set up a blockade on the western side of Edmonton. Within the first day 30 trains had been blocked and $135 million worth of freight was affected. Counter-protesters have since dismantled the blockade.
-
-            Protesters erect a blockade along a stretch of CN rail line in Edmonton,
-            but are soon faced with counter - protesters who begin forcibly dismantling the barricade.The blockade is taken down later in the day.
-
-            A group of about 20 members calling itself the "Cuzzins for Wet’suwet’en"
-            erects a blockade on a CN rail line in west Edmonton.CN obtains a court injunction,
-            and less than twelve hours after the blockade began,
-            it was dismantled by counter - protesters after a CN legal representative arrived to serve the injunction.
-            ',
+            description: 'Feb. 19 protesters set up a blockade on the western side of Edmonton. Within the first day 30 trains had been blocked and $135 million worth of freight was affected. Counter-protesters have since dismantled the blockade. Protesters erect a blockade along a stretch of CN rail line in Edmonton, but are soon faced with counter - protesters who begin forcibly dismantling the barricade.The blockade is taken down later in the day. A group of about 20 members calling itself the Cuzzins for Wet’suwet’en erects a blockade on a CN rail line in west Edmonton.CN obtains a court injunction, and less than twelve hours after the blockade began, it was dismantled by counter - protesters after a CN legal representative arrived to serve the injunction.',
             location: {
                 center: {
                     lon: -113.67150,
@@ -2149,13 +2030,7 @@ var config = {
             hidden: false,
             title: 'Feb-19 Eastern Ontario',
             image: './path/to/image/source.png',
-            description: 'February 19 – Via Rail announces temporary layoffs of up to 1,000 people due to the blockades.
-
-            Via Rail announces nearly 1,
-            000 temporary layoffs in light of ongoing service suspensions across much of Canada.The rail provider also cancels plans to resume a route between Ottawa and Quebec City as a new blockade is erected near Montreal.
-
-            CN Rail announces 1000 more employees will be temporarily laid off.
-            ',
+            description: 'February 19 – Via Rail announces temporary layoffs of up to 1,000 people due to the blockades. Via Rail announces nearly 1,000 temporary layoffs in light of ongoing service suspensions across much of Canada.The rail provider also cancels plans to resume a route between Ottawa and Quebec City as a new blockade is erected near Montreal. CN Rail announces 1000 more employees will be temporarily laid off.',
             location: {
                 center: {
                     lon: -80.52400,
@@ -2284,9 +2159,7 @@ var config = {
             title: 'Feb-20 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'February 20 - The Civilian Review and Complaints Commission (CRCC) for the RCMP issues a letter critical of RCMP procedures in the "checkpoint and exclusion zone" implemented on the Morice West Forest Service Road, stating the RCMP went beyond its legal authority to do ID checks of activists and searches of activists'
-            vehicles.The RCMP then offer to close its Community Industry Security Office(CISO) on the Morice Road.
-            ',
+            description: 'February 20 - The Civilian Review and Complaints Commission (CRCC) for the RCMP issues a letter critical of RCMP procedures in the "checkpoint and exclusion zone" implemented on the Morice West Forest Service Road, stating the RCMP went beyond its legal authority to do ID checks of activists and searches of activists vehicles.The RCMP then offer to close its Community Industry Security Office(CISO) on the Morice Road.',
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -2347,10 +2220,7 @@ var config = {
             hidden: false,
             title: 'Feb-20 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'Wet’suwet’en hereditary chiefs travel to Quebec and Ontario to thank supporters who have maintained the blockades.
-
-            A group of hereditary leaders from the Wet’ suwet’ en Nation visit protestors in Tyendianga.
-            ',
+            description: 'Wet’suwet’en hereditary chiefs travel to Quebec and Ontario to thank supporters who have maintained the blockades. A group of hereditary leaders from the Wet’ suwet’ en Nation visit protestors in Tyendianga.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -2476,14 +2346,7 @@ var config = {
             hidden: false,
             title: 'Feb-21 Parliment of Canada Ottawa',
             image: './path/to/image/source.png',
-            description: 'February 21 – Prime Minister Trudeau calls for the barricades to come down.
-            Prime Minister Justin Trudeau says the barricades must come down and the injunctions to clear the rail lines must be enforced,
-            calling the situation“ unacceptable and untenable.”He points the finger at Indigenous leadership,
-            who he says have not been receptive to his government’ s attempts at negotiation.
-
-            Prime Minister Trudeau provided an update on the status of the protests and blockades across the nation saying“ the barricades need to come down now,
-            ”and that the situation is“ unacceptable and untenable.”PM Trudeau reiterated the injunctions to clear tracks must be obeyed and the law must be upheld.
-            ',
+            description: 'February 21 – Prime Minister Trudeau calls for the barricades to come down. Prime Minister Justin Trudeau says the barricades must come down and the injunctions to clear the rail lines must be enforced, calling the situation“ unacceptable and untenable He points the finger at Indigenous leadership, who he says have not been receptive to his governments attempts at negotiation. Prime Minister Trudeau provided an update on the status of the protests and blockades across the nation saying“ the barricades need to come down now,”and that the situation is“ unacceptable and untenable. PM Trudeau reiterated the injunctions to clear tracks must be obeyed and the law must be upheld.',
             location: {
                 center: {
                     lon: -75.70188,
@@ -2739,10 +2602,7 @@ var config = {
             hidden: false,
             title: 'Feb-23 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'February 23 – Mohawks at the Tyendinaga rail blockade are given notice by the OPP to clear their blockade by midnight to avoid prosecution for disobeying the injunction against the blockade.
-
-            Ontario Provincial Police give protesters until midnight Sunday to clear the blockade near Belleville on Tyendinaga Mohawk Territory or face an investigation and possible criminal charges.
-            ',
+            description: 'February 23 – Mohawks at the Tyendinaga rail blockade are given notice by the OPP to clear their blockade by midnight to avoid prosecution for disobeying the injunction against the blockade. Ontario Provincial Police give protesters until midnight Sunday to clear the blockade near Belleville on Tyendinaga Mohawk Territory or face an investigation and possible criminal charges.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -2806,8 +2666,7 @@ var config = {
             hidden: false,
             title: 'Feb-24 Rail blockade, Rimouski',
             image: './path/to/image/source.png',
-            description: 'Feb. 24 protesters occupied a section of rail in Rimouski, Que. Protesters were seen holding signs with anarchist slogans and calls for police to leave Wet'
-            suwet 'en traditional territory. The protesters disturbed peacefully after police arrived to enforce an injunction.',
+            description: "Feb. 24 protesters occupied a section of rail in Rimouski, Que. Protesters were seen holding signs with anarchist slogans and calls for police to leave Wet'suwet 'en traditional territory. The protesters disturbed peacefully after police arrived to enforce an injunction.",
             location: {
                 center: {
                     lon: -68.52439,
@@ -2839,9 +2698,7 @@ var config = {
             hidden: false,
             title: 'Feb-24 Rail blockade, Quebec-New Brunswick border',
             image: './path/to/image/source.png',
-            description: 'Feb. 24 Immediately following the police action, new protests spring up in the province of Quebec including a temporary rolling blockade of the Honoré Mercier Bridge near Montreal by Mohawks from Kahnawake and a barricade of Route 344 which was the site of the 1990 Oka Crisis. They also stop transport trucks from moving through Listuguj Mi'
-            gmaq territory on their way to the Quebec - New Brunswick border.Protesters have blocked the railways near the Quebec - New Brunswick since January.
-            ',
+            description: "Feb. 24 Immediately following the police action, new protests spring up in the province of Quebec including a temporary rolling blockade of the Honoré Mercier Bridge near Montreal by Mohawks from Kahnawake and a barricade of Route 344 which was the site of the 1990 Oka Crisis. They also stop transport trucks from moving through Listuguj Mi'gmaq territory on their way to the Quebec - New Brunswick border. Protesters have blocked the railways near the Quebec - New Brunswick since January.",
             location: {
                 center: {
                     lon: -73.66090,
@@ -2905,10 +2762,7 @@ var config = {
             hidden: false,
             title: 'Feb-24 Belleville/Tyendinaga Railway Blockade Ontario',
             image: './path/to/image/source.png',
-            description: 'February 24 – The Tyendinaga Mohawks do not vacate the site. The OPP removes the blockade, arresting several of the protesters.
-
-            Ontario Provincial Police move to enforce injunction aimed at clearing Belleville - area rail blockade.Police make several arrests and officers line up in front of the remaining protesters at the encampment.
-            ',
+            description: 'February 24 – The Tyendinaga Mohawks do not vacate the site. The OPP removes the blockade, arresting several of the protesters. Ontario Provincial Police move to enforce injunction aimed at clearing Belleville - area rail blockade.Police make several arrests and officers line up in front of the remaining protesters at the encampment.',
             location: {
                 center: {
                     lon: -77.24409,
@@ -2940,10 +2794,7 @@ var config = {
             hidden: false,
             title: 'Feb-24 Railway blocked in Hazelton, B.C',
             image: './path/to/image/source.png',
-            description: 'February 24 – New protests form in British Columbia, blocking the BC Legislature, the Port of Vancouver and rail lines in Hazelton and Kamloops. In Hazleton, 14 protesters, including three Gitxsan hereditary chiefs, are arrested. They are released overnight.
-
-            More than 100 protesters are occupied the steps of the B.C.legislature building in Victoria.
-            ',
+            description: 'February 24 – New protests form in British Columbia, blocking the BC Legislature, the Port of Vancouver and rail lines in Hazelton and Kamloops. In Hazleton, 14 protesters, including three Gitxsan hereditary chiefs, are arrested. They are released overnight. More than 100 protesters are occupied the steps of the B.C.legislature building in Victoria.',
             location: {
                 center: {
                     lon: -130.26805,
@@ -3074,11 +2925,7 @@ var config = {
             hidden: false,
             title: 'Feb-25 Kipling GO station in Etobicoke',
             image: './path/to/image/source.png',
-            description: 'February 25 - A demonstration blocks commuter rail lines in Toronto, causing suspension of GO train service for several hours. Several protesters are arrested.
-
-            protesters occupied a piece of rail near the Kipling GO station in Etobicoke.The blockade effected service on the Milton,
-            Lakeshore East and Lakeshore West lines.
-            ',
+            description: 'February 25 - A demonstration blocks commuter rail lines in Toronto, causing suspension of GO train service for several hours. Several protesters are arrested. protesters occupied a piece of rail near the Kipling GO station in Etobicoke.The blockade effected service on the Milton, Lakeshore East and Lakeshore West lines.',
             location: {
                 center: {
                     lon: -79.56352,
@@ -3271,10 +3118,7 @@ var config = {
             title: 'Feb-27 Coastal GasLink Construction Site / Unist'
             ot 'en Camp',
             image: './path/to/image/source.png',
-            description: 'February 27 - TC Energy agrees to pause construction and the RCMP stops patrolling the Morice Forest Service Road to address the Wetʼsuwetʼen hereditary chiefs'
-            preconditions
-            for talks with government ministers.
-            ',
+            description: "February 27 - TC Energy agrees to pause construction and the RCMP stops patrolling the Morice Forest Service Road to address the Wetʼsuwetʼen hereditary chiefs' preconditions for talks with government ministers.",
             location: {
                 center: [-127.36335, 54.19083],
                 zoom: 16.18,
@@ -3527,9 +3371,7 @@ var config = {
             hidden: false,
             title: 'Mar-3 Centennial Hall Witset BC',
             image: './path/to/image/source.png',
-            description: 'March 3 - A meeting is held at the Centennial Hall in Witset among the Laksilyu (Small Frog Clan), to discuss the tentative agreement reached between the hereditary chiefs and the representatives of the Canadian government. The meeting'
-            s attendees agree to the proposal on the spot.
-            ',
+            description: "March 3 - A meeting is held at the Centennial Hall in Witset among the Laksilyu (Small Frog Clan), to discuss the tentative agreement reached between the hereditary chiefs and the representatives of the Canadian government. The meeting's attendees agree to the proposal on the spot.",
             location: {
                 center: {
                     lon: -127.33280,
@@ -3593,12 +3435,7 @@ var config = {
             hidden: false,
             title: 'Mar-4 Via Rail Toronto',
             image: './path/to/image/source.png',
-            description: 'March 4 - The Canadian, Via Rail'
-            s Toronto - Vancouver train,
-            resumes partial service,
-            as Via announces it is recalling most of the 1,
-            000 employees "affected by temporary suspensions"
-            starting on February 19. ',
+            description: "March 4 - The Canadian, Via Rail's Toronto - Vancouver train, resumes partial service, as Via announces it is recalling most of the 1,000 employees 'affected by temporary suspensions' starting on February 19.",
             location: {
                 center: {
                     lon: -88.53632,
@@ -3723,9 +3560,7 @@ var config = {
             hidden: false,
             title: 'Mar-6 Legislative Assembly of British Columbia, Victoria',
             image: './path/to/image/source.png',
-            description: 'March 6 - The BC Civil Liberties Association and the Wet’suwet’en release a letter written by BC Minister Farnworth authorizing a redeployment of RCMP resources to support the injunction enforcement. In the BCCLA'
-            s opinion,
-            the letter contradicts his later statement that the government does not direct the RCMP 's activities.',
+            description: "March 6 - The BC Civil Liberties Association and the Wet’suwet’en release a letter written by BC Minister Farnworth authorizing a redeployment of RCMP resources to support the injunction enforcement. In the BCCLA's opinion, the letter contradicts his later statement that the government does not direct the RCMP 's activities.",
             location: {
                 center: [-123.37001, 48.42015],
                 zoom: 16.44,
@@ -3850,12 +3685,7 @@ var config = {
             hidden: false,
             title: 'Mar-13 Parliment of Canada Ottawa',
             image: './path/to/image/source.png',
-            description: 'March 13 - Canada'
-            s Parliamentary Budget Officer Yves Giroux releases a report stating that the protests would have very little impact on economic growth,
-            estimating that the impact would amount to a 0.01 % fall in GDP,
-            which he characterized as "a blip",
-            and saying earlier warnings of shortages and economic downturn by corporations was "overblown".
-            ',
+            description: "March 13 - Canada's Parliamentary Budget Officer Yves Giroux releases a report stating that the protests would have very little impact on economic growth, estimating that the impact would amount to a 0.01 % fall in GDP, which he characterized as 'a blip', and saying earlier warnings of shortages and economic downturn by corporations was 'overblown'.",
             location: {
                 center: {
                     lon: -75.70188,
@@ -4080,9 +3910,7 @@ var config = {
             hidden: false,
             title: 'May-1 Wetʼsuwetʼen Hereditary Chiefs Office',
             image: './path/to/image/source.png',
-            description: 'May 1 - The elected chiefs of five Wet’suwet’en band governments (Nee Tahi Buhn Indian Band, Skin Tyee Nation, Ts’il Kaz Koh First Nation, Wet’suwet’en First Nation, and Witset First Nation) release their own joint statement, calling on the MOU to be withdrawn, saying they weren'
-            t consulted properly.
-            ',
+            description: "May 1 - The elected chiefs of five Wet’suwet’en band governments (Nee Tahi Buhn Indian Band, Skin Tyee Nation, Ts’il Kaz Koh First Nation, Wet’suwet’en First Nation, and Witset First Nation) release their own joint statement, calling on the MOU to be withdrawn, saying they weren't consulted properly.",
             location: {
                 center: {
                     lon: -127.17357,
@@ -4322,12 +4150,7 @@ var config = {
             hidden: false,
             title: 'Oct-1 B.C. Supreme Court',
             image: './path/to/image/source.png',
-            description: 'October 1 - A hearing at the B.C. Supreme Court begins, with the Office of the Wet’suwet’en seeking a rejection of the province'
-            s decision to extend Coastal GasLink 's environmental certificate for another five years. In their arguments, they cite the danger in establishing work camps on Indigenous territory, attested to in the Final report on Missing and murdered Indigenous women, which was published in June 2019 and not meaningfully considered when the decision was made. They also cite the company'
-            s four - year history of non - compliance with the Environmental Assessment Office 's legally-binding conditions. They are desiring that additional conditions be imposed on the certificate as part of its extension. The Environmental Assessment Office'
-            s position is that it already has the power to impose further conditions outside of an extension,
-            and that revoking the certificate would leave the project in a "vacuum"
-            since the last certificate expired in October 2019. ',
+            description: "October 1 - A hearing at the B.C. Supreme Court begins, with the Office of the Wet’suwet’en seeking a rejection of the province's decision to extend Coastal GasLink 's environmental certificate for another five years. In their arguments, they cite the danger in establishing work camps on Indigenous territory, attested to in the Final report on Missing and murdered Indigenous women, which was published in June 2019 and not meaningfully considered when the decision was made. They also cite the company's four - year history of non - compliance with the Environmental Assessment Office's legally-binding conditions. They are desiring that additional conditions be imposed on the certificate as part of its extension. The Environmental Assessment Office's position is that it already has the power to impose further conditions outside of an extension, and that revoking the certificate would leave the project in a 'vacuum' since the last certificate expired in October 2019. ",
             location: {},
             mapAnimation: 'flyTo',
             rotateAnimation: false,
