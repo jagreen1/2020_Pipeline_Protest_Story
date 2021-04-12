@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CGL Pipeline Impacts on Indigenous CommmunitiesMap</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+</style>
+</head>
+<body>
+<style>
+#menu {
+background: #fff;
+position: absolute;
+z-index: 1;
+top: 10px;
+right: 55px;
+border-radius: 3px;
+width: 120px;
+border: 1px solid rgba(0, 0, 0, 0.4);
+font-family: 'Open Sans', sans-serif;
+}
+
+#menu a {
+font-size: 13px;
+color: #404040;
+display: block;
+margin: 0;
+padding: 0;
+padding: 10px;
+text-decoration: none;
+border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+text-align: center;
+}
+
+#menu a:last-child {
+border: none;
+}
+
+#menu a:hover {
+background-color: #f8f8f8;
+color: #404040;
+}
+
+#menu a.active {
+background-color: #3887be;
+color: #ffffff;
+}
+
+#menu a.active:hover {
+background: #3074a4;
+}
+
+.features {
+  background-color: rgb(246,246,246, 0.75);
+  border-radius: 3px;
+  top: 10px;
+  left: 50px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font: 14px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+}
+
+.mapboxgl-popup {
+max-width: 400px;
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+</style>
+
+<nav id="menu"></nav>
+<div id="map"></div>
+<div id='features' class=features>
+  <h4>Impacts on Indigenous Communities </h4></div>
+
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1Ijoic3V5dWhlIiwiYSI6ImNrbHNmZndyNjBlY3Uybm8xNmZnZXJpazAifQ.IZA0sJHchmn7ons_NxGJtg';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/suyuhe/ckn6hdql30a6217qbiy1pf62r',
+center: [-126.446337, 54.251238],
+zoom: 6
+});
+
+map.addControl(new mapboxgl.NavigationControl());
+
+map.on('load', function () {
+  map.addSource('Wet’suwet’en Territory', {
+  type: 'vector',
+  url: 'mapbox://suyuhe.7egq7f1s'
+  });
+  map.addLayer({
+  'id': 'Wet’suwet’en Territory',
+  'type': 'fill',
+  'source': 'Wet’suwet’en Territory',
+  'layout': {
+  // make layer visible by default
+  'visibility': 'visible'
+  },
+  'paint': {
+    "fill-color": "rgba(255, 237, 158, 0.75)"
+  },
+  'source-layer': 'Wetsuweten_Territory-8ptx1d'
+  });
+
+  // add source and layer for contours
+  map.addSource('Coastal Gaslink Pipeline', {
+  type: 'vector',
+  url: 'mapbox://suyuhe.dgevu1f5'
+  });
+  map.addLayer({
+  'id': 'Coastal Gaslink Pipeline',
+  'type': 'line',
+  'source': 'Coastal Gaslink Pipeline',
+  'source-layer': 'Coastal_GasLink_Pipeline-3avf6j',
+  'layout': {
+  // make layer visible by default
+  'visibility': 'visible',
+  },
+  'paint': {
+  'line-color': '#000000',
+  'line-width': 5
+  }
+  });
+
+  map.addSource('Short Term Water Use Permits', {
+  type: 'vector',
+  url: 'mapbox://suyuhe.cjkh7nai'
+  });
+  map.addLayer({
+  'id': 'Short Term Water Use Permits',
+  'type': 'circle',
+  'source': 'Short Term Water Use Permits',
+  'source-layer': 'short_term_water_use_permitte-3tz3yu',
+  'layout': {
+  // make layer visible by default
+  'visibility': 'visible',
+  },
+  'paint': {
+'circle-radius': 3,
+'circle-color': 'rgba(55,148,179,1)',
+  }
+  });
+
+  map.addSource('Work Camps 2019', {
+  type: 'vector',
+  url: 'mapbox://suyuhe.drhdc22w'
+  });
+  map.addLayer({
+  'id': 'Work Camps 2019',
+  'type': 'circle',
+  'source': 'Work Camps 2019',
+  'source-layer': 'Workcamps_egis_nwbc_2019_05_01',
+  'layout': {
+  // make layer visible by default
+  'visibility': 'visible',
+  },
+  'paint': {
+'circle-radius': 3,
+'circle-color': 'rgba(255,0,0,1)',
+  }
+  });
+
+// enumerate ids of the layers
+var toggleableLayerIds = ['Short Term Water Use Permits', 'Work Camps 2019'];
+
+// set up the corresponding toggle button for each layer
+for (var i = 0; i < toggleableLayerIds.length; i++) {
+var id = toggleableLayerIds[i];
+
+var link = document.createElement('a');
+link.href = '#';
+link.className = 'active';
+link.textContent = id;
+
+link.onclick = function (e) {
+var clickedLayer = this.textContent;
+e.preventDefault();
+e.stopPropagation();
+
+var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+// toggle layer visibility by changing the layout object's visibility property
+if (visibility === 'visible') {
+map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+this.className = '';
+} else {
+this.className = 'active';
+map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+}
+};
+
+var layers = document.getElementById('menu');
+layers.appendChild(link);
+}
+
+// When a click event occurs on a feature in the places layer, open a popup at the
+// location of the feature, with description HTML from its properties.
+map.on('click', 'places', function (e) {
+var coordinates = e.features[0].geometry.coordinates.slice();
+var description = e.features[0].properties.description;
+
+// Ensure that if the map is zoomed out such that multiple
+// copies of the feature are visible, the popup appears
+// over the copy being pointed to.
+while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+
+}
+
+new mapboxgl.Popup()
+.setLngLat(coordinates)
+.setHTML(description)
+.addTo(map);
+
+map.flyTo({
+center: e.features[0].geometry.coordinates
+});
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'places', function () {
+map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'places', function () {
+map.getCanvas().style.cursor = '';
+});
+});
+</script>
+
+</body>
+</html>
