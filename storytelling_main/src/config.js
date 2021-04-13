@@ -33,7 +33,7 @@ const config = {
         hidden: false,
         title: 'Dec 31 (2020) - Jan 1 (2021): Coastal GasLink Injunction',
         image: '',
-        description: '<p>Dec 31 - In response to ongoing obstruction of the Coastal GasLink Project by members of the Wet’suwet’en First Nation, the B.C. Supreme Court issue an injunction ordering protestors to stop. It calls for the removal of any obstructions including cabins and gates on any roads, bridges or work sites the company has been authorized to use. Shortly after the injunction is issue the RCMP arrest 14 protesters.</p><br><p>Jan 1 - The following day the Wet’ suwet’ en First Nation herediatary chiefs serve Coastal GasLink with an eviction notice, rejecting the injunction.They order the RCMP and Coastal GasLink personnel from the Wetʼsuwetʼen territory, stating that company workers are trespassing on their unceded territory.</p>',
+        description: '<p>Dec 31 - In response to ongoing obstruction of the Coastal GasLink Project by members of the Wet’suwet’en First Nation, the B.C. Supreme Court issue an injunction ordering protestors to stop. It calls for the removal of any obstructions including cabins and gates on any roads, bridges or work sites the company has been authorized to use. Shortly after the injunction is issue the RCMP arrest 14 protesters.</p><p>Jan 1 - The following day the Wet’ suwet’ en First Nation herediatary chiefs serve Coastal GasLink with an eviction notice, rejecting the injunction.They order the RCMP and Coastal GasLink personnel from the Wetʼsuwetʼen territory, stating that company workers are trespassing on their unceded territory.</p>',
         location: {
             center: [-127.36335, 54.19083],
             zoom: 8,
