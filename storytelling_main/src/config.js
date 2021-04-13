@@ -1093,13 +1093,11 @@ const config = {
         image: '',
         description: 'February 24 – New protests form in British Columbia, blocking the BC Legislature, the Port of Vancouver and rail lines in Hazelton and Kamloops. In Hazleton, 14 protesters, including three Gitxsan hereditary chiefs, are arrested. They are released overnight. More than 100 protesters are occupied the steps of the B.C. legislature building in Victoria. ',
         location: {
-            center: {
-                lon: -130.26805,
-                lat: 54.24239,
-            },
-            zoom: 6.22,
-            pitch: 32.50,
-            bearing: -0.43,
+            center: { lon: -123.13579,
+		    lat: 55.15443 },
+	    zoom: 4.74,
+	    pitch: 44.00,
+	    bearing: 0.00
         },
         mapAnimation: 'flyTo',
         rotateAnimation: false,
