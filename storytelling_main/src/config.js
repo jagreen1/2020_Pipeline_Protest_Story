@@ -10,6 +10,24 @@ const config = {
     byline: 'By Joshua Green',
     footer: ' ',
     chapters: [{
+        id: 'chapter_00',
+        alignment: 'left',
+        hidden: false,
+        title: 'This is an interactive scrolleytelling map. Scroll down to move to the story forward.',
+        image: '',
+        description: '',
+        location: {
+            center: [-123.38389, 53.64046],
+            zoom: 5.35,
+            pitch: 35.00,
+            bearing: 0.59,
+        },
+        mapAnimation: 'flyTo',
+        rotateAnimation: false,
+        callback: '',
+        onChapterEnter: [],
+        onChapterExit: [],
+    },{
         id: 'chapter_01',
         alignment: 'left',
         hidden: false,
@@ -19,7 +37,7 @@ const config = {
 	Jan 1 - The following day the Wet’ suwet’ en First Nation herediatary chiefs serve Coastal GasLink with an eviction notice,	rejecting the injunction.They order the RCMP and Coastal GasLink personnel from the Wetʼsuwetʼen territory, stating that company workers are trespassing on their unceded territory.',
         location: {
             center: [-127.36335, 54.19083],
-            zoom: 12,
+            zoom: 8,
             pitch: 43.50,
             bearing: 157.56,
         },
