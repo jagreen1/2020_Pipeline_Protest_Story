@@ -149,7 +149,7 @@ const config = {
         id: 'chapter_07',
         alignment: 'left',
         hidden: false,
-        title: ': Onset of National Protest',
+        title: 'Onset of National Protest',
         image: '',
         description: 'Actions by RCMP and the British Columbia Government and the situation as a whole spark national outrage, driving dialogue on issues of Indigenous Rights and Oil & Gas in a time of climate change. In the weeks to come, protests in solidarity with the Wetʼsuwetʼen First Nation spring up all throughout Canada and gaining global attention.',
         location: {
