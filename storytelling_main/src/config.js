@@ -1,7 +1,7 @@
 const config = {
   style: 'mapbox://styles/jgreen1/ckngacue3009o18k943qv0fth',
   accessToken: 'pk.eyJ1IjoiamdyZWVuMSIsImEiOiJja2xhMHEwbDMydHFqMzB0N3FxdTAyYjl6In0.Hv__9wnsQJpvHjh-zLgZMw',
-  showMarkers: true,
+  showMarkers: false,
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
