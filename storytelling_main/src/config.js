@@ -309,7 +309,7 @@ const config = {
     hidden: false,
     title: 'Feb 8: Marine Port Protest',
     image: '',
-    description: '<p>Feb 8 - Protesters occupy the Deltaport in Delta, BC. On Feb. 10 RCMP break the blockade and arrest 14 people.</p>',
+    description: '<p>Feb 8 - Protesters occupy the Deltaport in Delta, BC. Two days later the RCMP breakdown the blockade and arrest 14 people.</p>',
     location: {
       center: {
         lon: -123.15848,
@@ -351,7 +351,7 @@ const config = {
     hidden: false,
     title: 'Feb 9: Railway Protest',
     image: '',
-    description: '<p>Feb 9 Protesters block rail tracks near Belleville, Ont. The RCMP in Ontario secure a court-ordered injunction to clear the blockade, but so far no action is taken to remove the protesters.</p>',
+    description: '<p>Feb 9 Protesters block rail tracks near Belleville, Ontario. The RCMP in Ontario secure a court-ordered injunction to clear the blockade, but so far no action is taken to remove the protesters.</p>',
     location: {
       center: {
         lon: -77.24409,
@@ -477,7 +477,7 @@ const config = {
     hidden: false,
     title: 'Feb 10: Railway Protest',
     image: '',
-    description: '<p>Feb 10 - After a week of demonstrations, protesters in Kahnawake, Que. begin a permanent blockade of rail lines.</p>',
+    description: '<p>Feb 10 - After a week of demonstrations, protesters in Kahnawake, Quebec. begin a permanent blockade of rail lines.</p>',
     location: {
       center: {
         lon: -73.66234,
