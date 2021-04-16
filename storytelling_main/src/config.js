@@ -498,7 +498,7 @@ const config = {
     hidden: false,
     title: 'Feb 10: Bridge Protest',
     image: '',
-    description: '<p>Feb 10 - Protesters block the Reconciliation Bridge in Calgary.</p>',
+    description: '<p>Feb 10 - Protesters block the Reconciliation Bridge in Calgary, Alberta.</p>',
     location: {
       center: {
         lon: -114.05208,
