@@ -13,7 +13,7 @@ const config = {
 		id: 'chapter_00',
 		alignment: 'left',
 		hidden: false,
-		title: '<p>This is an interactive scrolleytelling map.</p><p>Scroll down to move the story forward.</p>',
+		title: 'This is an interactive scrolleytelling map. Scroll down the page to move the story forward.',
 		image: '',
 		description: '',
 		location: {
@@ -126,7 +126,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 6: Wet’suwet’en Hereditary Chief and BC Government Negotiations Fail',
 		image: '',
-		description: '<p>Feb 6 - Shortly after the talks fail, RCMP move in to Wet’suwet’en territory to enforce the court injunction allowing construction work to resume. Between February 6 and 9, the RCMP arrest 21 people at camps.</p><img src="https://www.invw.org/wp-content/uploads/2021/03/BC2-Freda-Huson-singing.jpg" width="500"><img src="https://www.invw.org/wp-content/uploads/2021/03/BC5-Fred-Huson-shot-3-1536x1024.jpeg" width="500"><img src="https://video-images.vice.com/articles/5e426186984c1b00971d3ebd/lede/1581409046112-image00003.jpeg" width="500">',
+		description: '<p>Feb 6 - Shortly after the talks fail, RCMP move in to Wet’suwet’en territory to enforce the court injunction allowing construction work to resume. Between February 6 and 9, the RCMP arrest 21 people at camps.</p><img src="https://www.invw.org/wp-content/uploads/2021/03/BC5-Fred-Huson-shot-3-1536x1024.jpeg" width="500"><img src="https://video-images.vice.com/articles/5e426186984c1b00971d3ebd/lede/1581409046112-image00003.jpeg" width="500">',
 		location: {
 			center: [-123.38389, 53.64046],
 			zoom: 5.35,
