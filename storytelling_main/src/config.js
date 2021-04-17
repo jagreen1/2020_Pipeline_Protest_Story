@@ -579,7 +579,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 11: Street Protest',
 		image: '',
-		description: '<p>Feb 11 - Protesters shut down the intersection of Yonge and Eglinton Streets in Ontario, causing major traffic disruptions in the area.</p><img src="https://thefulcrum.ca/news/hundreds-rally-in-ottawa-in-solidarity-with-wetsuweten-first-nation" width="500"><img src="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/02/11/Wetsuweten-protest-yonge-and-eg-768x461.jpg" width="500"><img src="https://www.narcity.com/u/2020/02/11/8d1c278c4214249d2681ea3d361bba4a.jpg_640xrel.jpg" width="500">',
+		description: '<p>Feb 11 - Protesters shut down the intersection of Yonge and Eglinton Streets in Ontario, causing major traffic disruptions in the area.</p><img src="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/02/11/Wetsuweten-protest-yonge-and-eg-768x461.jpg" width="500"><img src="https://www.narcity.com/u/2020/02/11/8d1c278c4214249d2681ea3d361bba4a.jpg_640xrel.jpg" width="500">',
 		location: {
 			center: {
 				lon: -79.39832,
