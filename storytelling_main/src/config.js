@@ -144,7 +144,7 @@ const config = {
 		hidden: false,
 		title: 'Onset of National Protest',
 		image: '',
-		description: '<p>Actions by RCMP and the British Columbia Government and the situation as a whole spark national outrage, driving dialogue on issues of Indigenous Rights and Oil & Gas in a time of climate change. In the weeks to come, protests in solidarity with the Wetʼsuwetʼen First Nation spring up all throughout Canada; gaining global attention.</p>',
+		description: '<p>Actions by RCMP and British Columbia Government and the disregard for Wet’suwet’en Traditional Territory spark national outrage, driving dialogue on issues of Indigenous Rights and Oil & Gas in a time of climate change. In the weeks to come, protests in solidarity with the Wetʼsuwetʼen First Nation spring up all throughout Canada; gaining global attention.</p>',
 		location: {
 			center: [-94.93017, 57.67839],
 			zoom: 3.48,
