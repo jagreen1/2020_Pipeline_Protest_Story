@@ -183,7 +183,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 7: Marine Port Protest',
 		image: '',
-		description: '<p>Feb 7. - Protesters begin disruptions at ports in Vancouver and Delta, BC.</p><img src="https://i.cbc.ca/1.5457642.1581277351!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/delta-port-protests.jpg" width="500">',
+		description: '<p>Feb 7 - Protesters begin disruptions at ports in Vancouver and Delta, BC.</p><img src="https://i.cbc.ca/1.5457642.1581277351!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/delta-port-protests.jpg" width="500">',
 		location: {
 			center: {
 				lon: -123.15154,
@@ -330,7 +330,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 8: Railway Protest',
 		image: '',
-		description: '<p>Feb 8, Protesters set up a blockade on the rail tracks near New Hazelton, BC, cutting off rail access to Prince Rupert and Kitimat. Then on Feb. 13 protesters dismantle the blockade as they negotiate with RCMP. They say that unless Coastal GasLink is cancelled they will resume the blockade in the future.</p>',
+		description: '<p>Feb 8 - Protesters set up a blockade on the rail tracks near New Hazelton, BC, cutting off rail access to Prince Rupert and Kitimat. Then on Feb. 13 protesters dismantle the blockade as they negotiate with RCMP. They say that unless Coastal GasLink is cancelled they will resume the blockade in the future.</p>',
 		location: {
 			center: {
 				lon: -127.58082,
@@ -351,7 +351,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 9: Railway Protest',
 		image: '',
-		description: '<p>Feb 9 Protesters block rail tracks near Belleville, Ontario. The RCMP in Ontario secure a court-ordered injunction to clear the blockade, but so far no action is taken to remove the protesters.</p><img src="https://www.quintenews.com/files/2020/02/Tyendinaga-Protest-7-1600x1200.jpg" width="500"><img src="https://www.quintenews.com/files/2020/02/Tyendinaga-Protest-6-1600x1200.jpg" width="500">',
+		description: '<p>Feb 9 - Protesters block rail tracks near Belleville, Ontario. The RCMP in Ontario secure a court-ordered injunction to clear the blockade, but so far no action is taken to remove the protesters.</p><img src="https://www.quintenews.com/files/2020/02/Tyendinaga-Protest-7-1600x1200.jpg" width="500"><img src="https://www.quintenews.com/files/2020/02/Tyendinaga-Protest-6-1600x1200.jpg" width="500">',
 		location: {
 			center: {
 				lon: -77.24409,
@@ -372,7 +372,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 10: Bank Protest',
 		image: '',
-		description: '<p>Feb 10 protesters occupy the Bank of Montreal branch in Nelson, BC for several days because bank had given a loan to TransCanada to build the Coastal GasLink pipeline. Police said they would not be removing the protesters, leading to the protest lasting several days before they all left.</p><img src="https://sve1i1nmgtippdc53odi8jr-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/20496315_web1_copy_200213-KWS-Wetsuweten-Protest_1.jpg" width="500"><img src="https://sve1i1nmgtippdc53odi8jr-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/20496315_web1_200213-KWS-Wetsuweten-Protest_2.jpg" width="500">',
+		description: '<p>Feb 10 - Protesters occupy the Bank of Montreal branch in Nelson, BC for several days because bank had given a loan to TransCanada to build the Coastal GasLink pipeline. Police said they would not be removing the protesters, leading to the protest lasting several days before they all left.</p><img src="https://sve1i1nmgtippdc53odi8jr-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/20496315_web1_copy_200213-KWS-Wetsuweten-Protest_1.jpg" width="500"><img src="https://sve1i1nmgtippdc53odi8jr-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/20496315_web1_200213-KWS-Wetsuweten-Protest_2.jpg" width="500">',
 		location: {
 			center: {
 				lon: -117.29652,
@@ -393,7 +393,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 10: Railway Protest',
 		image: '',
-		description: '<p>Feb 10 Demonstrators in the Montreal area disrupt commuter train service on the Exo Candiac line. A shuttle bus service is in effect for affected rail stations.</p><img src="https://www.iheartradio.ca/image/policy:1.10550917:1581340763/image-jpg.jpg?f=default&$p$f=c6ab850" width="500">',
+		description: '<p>Feb 10 - Demonstrators in the Montreal area disrupt commuter train service on the Exo Candiac line. A shuttle bus service is in effect for affected rail stations.</p><img src="https://www.iheartradio.ca/image/policy:1.10550917:1581340763/image-jpg.jpg?f=default&$p$f=c6ab850" width="500">',
 		location: {
 			center: {
 				lon: -73.55543,
@@ -558,7 +558,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 11: Highway Protest',
 		image: '',
-		description: '<p>Feb. 11 Protesters set up a blockade on Highway 19 near Courtenay, BC. Police later arrest a local resident who tried to take down the barricade, rather than the protesters themselves. RCMP would later take down the blockade that day.</p><img src="https://cdn.cheknews.ca/wp-content/uploads/2020/02/11174223/IMG_0440-e1581356537931.jpg" width="500">',
+		description: '<p>Feb 11 - Protesters set up a blockade on Highway 19 near Courtenay, BC. Police later arrest a local resident who tried to take down the barricade, rather than the protesters themselves. RCMP would later take down the blockade that day.</p><img src="https://cdn.cheknews.ca/wp-content/uploads/2020/02/11174223/IMG_0440-e1581356537931.jpg" width="500">',
 		location: {
 			center: {
 				lon: -125.00913,
@@ -747,7 +747,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 16: Bridge Protest',
 		image: '',
-		description: '<p>Feb. 16 protesters blocked the Canadian side of the Rainbow International Bridge, disrupting traffic for most of the afternoon. A demonstration temporarily blocks the Rainbow Bridge border crossing in Niagara Falls, Ontario. Meanwhile, protesters briefly shut down a busy Ontario border crossing. A protest in Ontario shuts down a U.S. border crossing.</p><img src="https://www.thestar.com/content/dam/thestar/news/gta/2020/02/16/wetsuweten-solidarity-protest-to-block-rainbow-bridge/_2_rainbow_rally.jpg" width="500">',
+		description: '<p>Feb 16 - protesters blocked the Canadian side of the Rainbow International Bridge, disrupting traffic for most of the afternoon. A demonstration temporarily blocks the Rainbow Bridge border crossing in Niagara Falls, Ontario. Meanwhile, protesters briefly shut down a busy Ontario border crossing. A protest in Ontario shuts down a U.S. border crossing.</p><img src="https://www.thestar.com/content/dam/thestar/news/gta/2020/02/16/wetsuweten-solidarity-protest-to-block-rainbow-bridge/_2_rainbow_rally.jpg" width="500">',
 		location: {
 			center: {
 				lon: -79.06802,
@@ -810,7 +810,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 19 - 21: Railway Protest',
 		image: '',
-		description: '<p>Feb 19 – A blockade is set up on the Mont-Saint-Hilaire rail line in Saint-Lambert, Quebec, promising to stay until the RCMP leaves the disputed zone in Wetʼsuwetʼen territory. The blockade causes Via Rail to postpone resuming service between Montreal and Quebec City.</p><p>Feb 21 - The Mont-Saint-Hilaire rail line is cleared after the Sûreté du Québec police arrive to enforce a CNR injunction.</p><img src="https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2020/02/blockade-1-3.png?quality=90&strip=all&w=472&type=webp" width="500">',
+		description: '<p>Feb 19 - A blockade is set up on the Mont-Saint-Hilaire rail line in Saint-Lambert, Quebec, promising to stay until the RCMP leaves the disputed zone in Wetʼsuwetʼen territory. The blockade causes Via Rail to postpone resuming service between Montreal and Quebec City.</p><p>Feb 21 - The Mont-Saint-Hilaire rail line is cleared after the Sûreté du Québec police arrive to enforce a CNR injunction.</p><img src="https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2020/02/blockade-1-3.png?quality=90&strip=all&w=472&type=webp" width="500">',
 		location: {
 			center: {
 				lon: -73.18183,
