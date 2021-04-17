@@ -13,7 +13,7 @@ const config = {
     id: 'chapter_00',
     alignment: 'left',
     hidden: false,
-    title: 'This is an interactive scrolleytelling map. Scroll down to move the story forward.',
+    title: '<p>This is an interactive scrolleytelling map.</p><p>Scroll down to move the story forward.</p>',
     image: '',
     description: '',
     location: {
