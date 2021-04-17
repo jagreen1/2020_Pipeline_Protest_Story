@@ -1435,7 +1435,7 @@ const config = {
     onChapterEnter: [],
     onChapterExit: [],
   }, {
-    id: 'chapter_69',
+    id: 'chapter_70',
     alignment: 'left',
     hidden: false,
     title: 'The Future of Coastal GasLink and Canadian Oil & Gas',
