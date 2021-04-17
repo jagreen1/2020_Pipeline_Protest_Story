@@ -1170,7 +1170,7 @@ const config = {
 				lon: -76.53695,
 				lat: 44.25697,
 			},
-			zoom: 15.00,
+			zoom: 10.00,
 			pitch: 44.50,
 			bearing: 0.00,
 		},
