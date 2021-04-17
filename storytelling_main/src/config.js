@@ -558,7 +558,7 @@ const config = {
 		hidden: false,
 		title: 'Feb 11: Highway Protest',
 		image: '',
-		description: '<p>Feb 11 - Protesters set up a blockade on Highway 19 near Courtenay, BC. Police later arrest a local resident who tried to take down the barricade, rather than the protesters themselves. RCMP would later take down the blockade that day.</p><img src="https://cdn.cheknews.ca/wp-content/uploads/2020/02/11174223/IMG_0440-e1581356537931.jpg" width="500">',
+		description: '<p>Feb 11 - Protesters set up a blockade on Highway 19 near Courtenay, BC. Police later arrest a local resident who tried to take down the barricade, rather than the protesters themselves. RCMP would later take down the blockade that day.</p><img src="https://cf-images.us-east-1.prod.boltdns.net/v1/static/5330942424001/ccc0424a-821b-46e2-ac75-b9e66ef105ae/ca63d8e1-9dff-4652-af43-63471fd7bfba/640x360/match/image.jpg" width="500">',
 		location: {
 			center: {
 				lon: -125.00913,
