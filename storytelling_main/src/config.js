@@ -1368,7 +1368,7 @@ const config = {
 		description: "<p>Apr 30 - The hereditary chiefs release a joint statement with the provincial and federal governments, stating that all five clans had agreed to ratify the MOU after having reviewed and discussed it in the prior weeks.</p><p>May 1 - The elected chiefs of five Wet’ suwet’ en band governments(Nee Tahi Buhn Indian Band, Skin Tyee Nation, Ts’il Kaz Koh First Nation, Wet’suwet’en First Nation, and Witset First Nation) release their own joint statement, calling on the MOU to be withdrawn, saying they weren't consulted properly.</p><p>May 7 - The MOU is released to the elected band councils.</p><p>May 8 - The MOU is released to the wider Wet’ suwet’ en Nation.</p><p>May 11 - The elected chiefs of Nee Tahi Buhn Indian Band, Skin Tyee Nation, Ts’il Kaz Koh First Nation, and Wet’suwet’en First Nation release a further statement, again calling on the MOU to be withdrawn, and further calling for the resignation of Minister Bennett.</p><p>May 12 - The MOU is published on the Office of the Wet’suwet’en website.</p><p>May 14 - The MOU is signed by the nine sitting hereditary chiefs, Minister Bennett, and Minister Fraser, in a virtual ceremony held via Zoom due to precautions related to the COVID-19 pandemic.</p>",
 		location: {
 			center: [-123.38389, 53.64046],
-			zoom: 6,
+			zoom: 5.35,
 			pitch: 35.00,
 			bearing: 0.59,
 		},
