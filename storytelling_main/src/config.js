@@ -93,7 +93,7 @@ const config = {
 		description: '<p>Jan 21 - Protesters occupy the Ministry of Energy, Mines and Petroleum Resources building in Victoria for 15 hours. While using minimum force to remove the protesters, police say they were subject to physical abuse and race-based insults.</p>',
 		location: {
 			center: [-123.36219, 48.43019],
-			zoom: 13.93,
+			zoom: 15,
 			pitch: 28.50,
 			bearing: 7.31,
 		},
