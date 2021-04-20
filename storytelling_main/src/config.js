@@ -10,12 +10,33 @@ const config = {
 	byline: 'By Joshua Green',
 	footer: ' ',
 	chapters: [{
-		id: 'chapter_00',
+		id: 'chapter_instructions',
 		alignment: 'left',
 		hidden: false,
 		title: 'This is an interactive scrolleytelling map. Scroll down the page to move the story forward.',
 		image: '',
 		description: '',
+		location: {
+			center: {
+				lon: -123.13579,
+				lat: 55.15443
+			},
+			zoom: 4.74,
+			pitch: 44.00,
+			bearing: 0.00,
+		},
+		mapAnimation: 'flyTo',
+		rotateAnimation: false,
+		callback: '',
+		onChapterEnter: [],
+		onChapterExit: [],
+	},{
+		id: 'chapter_00',
+		alignment: 'left',
+		hidden: false,
+		title: 'The Coastal GasLink Pipeline Project',
+		image: '',
+		description: "<p>The Coastal GasLink Pipeline Project is an approximately 670 kilometer pipeline designed to deliver natural gas from Dawson Creek in northeastern BC to the LNG Canada facility in Kitimat, BC. In 2012 TC Energy selected LNG Canada to design, build, own, and operate Coastal GasLink. Then in 2014, Coastal GasLink filed their project design applications with the BC Environmental Assessment Office (EAO) and BC Oil and Gas Commission (OGC). In the following several years Coastal GasLink engaged with stakeholders, refined development plans, decided on a pipeline route, and eventually in 2019 received necessary permits and certificates from the OGC and BC EAO. Prior to construction, Coastal GasLink consulted with Indigenous First Nations whose territory the pipeline passed through. Some First Nations were supportive of the project as it would provide job opportunities, however the Wet'suwet'en hereditary chiefs strongly opposed the pipeline from the very start. As early as 2010, protesters set up barricades and checkpoint along the Morice West Forest Service Road, inhibiting construction of the pipeline in Wet'suwet'en territory. TC Energy received a BC Supreme Court injunction to stop the blockades in 2018, and on in January 2019 the RCMP raided the Unist'ot'en Camp arresting 14 protests. In December of 2019 TC Energy applied for an extension of the court injunction, and on December 31st it was extended by the BC Supremum Court.</p><img src='https://www.coastalgaslink.com/siteassets/about/approved-route/coastal-gaslink-route-map-may-2020.jpg' width='500'>",
 		location: {
 			center: {
 				lon: -123.13579,
