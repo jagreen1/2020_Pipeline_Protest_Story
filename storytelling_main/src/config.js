@@ -46,8 +46,9 @@ const config = {
 		mapAnimation: 'flyTo',
 		rotateAnimation: false,
 		callback: '',
-		onChapterEnter: [showMarkers: true],
+		onChapterEnter: [],
 		onChapterExit: [],
+		showMarkers: true,
 	}, {
 		id: 'chapter_02',
 		alignment: 'left',
