@@ -48,7 +48,6 @@ const config = {
 		callback: '',
 		onChapterEnter: [],
 		onChapterExit: [],
-		showMarkers: true,
 	}, {
 		id: 'chapter_02',
 		alignment: 'left',
