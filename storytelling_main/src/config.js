@@ -1419,7 +1419,7 @@ const config = {
 		hidden: false,
 		title: 'The Future of Coastal GasLink and Canadian Oil & Gas',
 		image: '',
-		description: "<p>As of 2021 construction on the pipeline has resumed, but considerable national tensions remain unresolved and until fully built the fate of Coastal GasLink is not yet clear. British Columbia's TMX and Coastal GasLink fossil fuel megaprojects both have the attention of international climate activists.</p><p>For now, conflict has been abated with the March 2020 signing of the MOU between the Wet’suwet’en and BC Government, but it could erupt again without warning.</p><img src='https://www.invw.org/wp-content/uploads/2021/03/pipelines-map-v1-credit-mark-harrison-the-tyee-1536x1163.png' width='500'>",
+		description: "<p>Construction on the pipeline is ongoing as of 2021, but considerable national tensions remain unresolved; and until fully built the fate of Coastal GasLink is not yet clear. British Columbia's TMX and Coastal GasLink fossil fuel megaprojects both have the attention of international climate activists.</p><p>For now, conflict has been abated with the March 2020 signing of the MOU between the Wet’suwet’en and BC Government, but it could erupt again without warning.</p><img src='https://www.invw.org/wp-content/uploads/2021/03/pipelines-map-v1-credit-mark-harrison-the-tyee-1536x1163.png' width='500'>",
 		location: {
 			center: [-123.38389, 53.64046],
 			zoom: 5.35,
