@@ -9,7 +9,7 @@ const config = {
 	subtitle: 'The Ongoing Struggle for Reconciliation and Respect of Indigenous Rights',
 	byline: 'By Joshua Green',
 	footer: ' ',
-	chapters: [/*{
+	chapters: [{
 		id: 'chapter_instructions',
 		alignment: 'left',
 		hidden: false,
@@ -30,7 +30,7 @@ const config = {
 		callback: '',
 		onChapterEnter: [],
 		onChapterExit: [],
-	},*/{
+	},/*{
 		id: 'chapter_00',
 		alignment: 'left',
 		hidden: false,
@@ -51,7 +51,7 @@ const config = {
 		callback: '',
 		onChapterEnter: [],
 		onChapterExit: [],
-	}, {
+	},*/{
 		id: 'chapter_01',
 		alignment: 'left',
 		hidden: false,
