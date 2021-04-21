@@ -1420,7 +1420,7 @@ const config = {
 		id: 'chapter_68',
 		alignment: 'left',
 		hidden: false,
-		title: 'Oct 1: Beginning of BC Supreum Court Hearing',
+		title: 'Oct 1: Beginning of BC Supreme Court Hearing',
 		image: '',
 		description: "<p>Oct 1 - The B.C. Supreme Court hearing resumes with the Office of the Wet’suwet’en seeking a rejection of the province's decision to extend Coastal GasLink's environmental certificate for another five years. In their arguments, they cite the danger in establishing work camps on Indigenous territory, attested to in the Final report on Missing and Murdered Indigenous Women, which was published in June 2019 and not meaningfully considered when the decision was made. They also cite the company's four-year history of non-compliance with the Environmental Assessment Office's legally-binding conditions. They also state their desire that additional conditions be imposed on the certificate as part of its extension. The Environmental Assessment Office's position is that it already has the power to impose further conditions outside of an extension, and that revoking the certificate would leave the project in a 'vacuum' since the last certificate expired in October 2019.</p>",
 		location: {
