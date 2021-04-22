@@ -67,6 +67,29 @@ background: #3074a4;
   z-index: 1;
 }
 
+.legend {
+background: rgba(255, 255, 255, 0.8);
+border-radius: 3px;
+bottom: 30px;
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+padding: 10px;
+position: absolute;
+right: 10px;
+z-index: 1;
+}
+
+.legend h4 {
+margin: 0 0 10px;
+}
+
+.legend div span {
+border-radius: 50%;
+display: inline-block;
+height: 10px;
+margin-right: 5px;
+width: 10px;
+}
 </style>
 
 <nav id="menu"></nav>
@@ -76,6 +99,12 @@ background: #3074a4;
 	<div id="pd"><p>Click on the buttons to turn layers on and off</p></div>
 	<div id="pd"><p>Click on the stars to see more description</p></div>
 </div>
+	
+<div id="map_legend" class="legend"> <!-- Create a legend with colors correspond to the layers -->
+      <div><span style="background-color: #000064"></span>Coastal Gaslink Pipeline</div>
+      <div><span style="background-color: #B798B8"></span>Wet’suwet’en Traditional Territory</div>
+      <div><span style="background-color: #1307b0"></span>British Columbia Oil & Gas Pipelines</div>
+    </div>
 
 <script>
 	mapboxgl.accessToken = 'pk.eyJ1IjoianlnIiwiYSI6ImNra3Z3Z3MwdjFqcGQycXFtdG1vdGFrZ3QifQ.KoQNW0jmg00W5oanO5FS9g';
