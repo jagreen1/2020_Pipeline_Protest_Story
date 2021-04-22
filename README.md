@@ -7,6 +7,6 @@ Link to Group Essay
 Link to Map 2: Coastal GasLink Impacts on the Wet'suwet'en Nation
 
 
-![](Screen%Shot%2021-04-20%at%9.05.41%PM.png)
+![](map3.png)
 
 Link to Map 3: The 2020 Canadian Pipeline and Railway Protests Timeline
